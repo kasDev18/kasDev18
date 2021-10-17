@@ -462,7 +462,7 @@ html
 .abt-opening
 {
     position: absolute;
-    transform: translate(40rem, -20rem);
+    margin: -20rem 0 0 40rem;
 }
 @media (max-width: 425px)
 {
@@ -476,6 +476,7 @@ html
 .abt-opening li
 {
     list-style: none;
+    
 }
 .abt-opening li h5
 {
@@ -1233,7 +1234,7 @@ html
 }
 .reveal
 {
-    /* position: relative; */
+    position: relative;
     transform: translateY(150px);
     opacity: 0;
     transition: all 2s ease;
@@ -1241,5 +1242,38 @@ html
 .reveal.active
 {
     transform: translateY(0px);
+    opacity: 1;
+}
+.about-menu .dd_about .reveal
+{
+    transform: translateY(150px);
+    opacity: 0;
+    transition: all 2s ease;
+}
+.about-menu .dd_about .reveal.active
+{
+    transform: translateY(0px);
+    opacity: 1;
+}
+.about-menu .abt-opening .reveal 
+{
+    transform: translateX(150px);
+    opacity: 0;
+    transition: all 2s ease;
+}
+.abt-opening .reveal.active
+{
+    transform: translateX(0px);
+    opacity: 1;
+}
+.Portfolio .portfolio-title .portfolio-name .reveal
+{
+    transform: translateX(1px);
+    opacity: 0;
+    transition: all 2s ease;
+}
+.portfolio-title .portfolio-name .reveal.active
+{
+    transform: translateX(150px);
     opacity: 1;
 }
