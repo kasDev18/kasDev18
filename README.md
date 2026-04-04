@@ -36,12 +36,10 @@
 ```typescript
 const kevin = {
   name:       "Kevin Albert Catindoy",
-  role:       "Full-Stack Web Developer",
-  company:    "AR Data Tech",
-  project:    "w3.io (Lead Developer)",
+  role:       "Software Engineer",
   experience: "5+ years",
   location:   "Philippines 🇵🇭",
-  stack:      ["React", "Next.js", "TypeScript", "Laravel", "Node.js"],
+  stack:      ["React", "Next.js", "TypeScript", "Node.js"],
   databases:  ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
   passions:   ["Clean Architecture", "UI/UX", "AI Integration"],
   openTo:     "Exciting collaborations & opportunities",
