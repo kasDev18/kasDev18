@@ -213,7 +213,7 @@ const kevin = {
 ## 🌱 What I'm Up To
 
 ```
-🔭  Currently leading w3.io development at AR Data Tech
+🔭  Currently Software Engineer at AR Data Tech
 🧠  Exploring AI-driven development & cloud-native architecture
 🤝  Open to collaborating on innovative web projects
 💬  Ask me about React · Next.js · Laravel · Full-Stack Architecture
