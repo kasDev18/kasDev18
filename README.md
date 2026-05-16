@@ -39,7 +39,7 @@ const kevin = {
   role:       "Software Engineer",
   experience: "5+ years",
   location:   "Philippines 🇵🇭",
-  stack:      ["React", "Next.js", "TypeScript", "Node.js"],
+  stack:      ["React", "Next.js", "TypeScript", "Node.js", "Nestjs"],
   databases:  ["PostgreSQL", "MongoDB", "MySQL", "Supabase"],
   passions:   ["Clean Architecture", "UI/UX", "AI Integration"],
   openTo:     "Exciting collaborations & opportunities",
