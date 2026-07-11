@@ -156,7 +156,7 @@ const kevin = {
 <td width="50px" align="center">🏢</td>
 <td>
 
-**AR Data Tech** &nbsp;·&nbsp; *Software Engineer — Lead Developer*
+**AR Data Tech** &nbsp;·&nbsp; *Software Engineer
 <br/>`Jul 2025 – Present`
 <br/>→ Lead Developer for the **w3.io** project · Next.js & TypeScript
 <br/>→ End-to-end delivery: architecture → deployment · Mentoring juniors · Client collaboration
